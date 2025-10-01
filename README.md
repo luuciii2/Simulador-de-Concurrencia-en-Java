@@ -12,12 +12,15 @@ Este proyecto consiste en una **simulación concurrente** desarrollada en **Java
   - Salida en grupos coordinados.  
   - Entrada individual y controlada.  
   - Gestión de colas de espera.  
+- **Parte distribuida**:  
+  - Implementación de **comunicación remota mediante RMI (Remote Method Invocation)** para permitir la interacción entre procesos distribuidos.  
 
 ---
 
 ## 🎯 Objetivos del proyecto  
 - Poner en práctica conceptos de **programación concurrente y multihilo**.  
-- Desarrollar un modelo que refleje la **sincronización de procesos en entornos con recursos limitados**.  
+- Desarrollar un modelo que refleje la **síncronización de procesos en entornos con recursos limitados**.  
+- Explorar el uso de **programación distribuida** para la simulación mediante **RMI**.  
 
 ---
 
@@ -25,6 +28,7 @@ Este proyecto consiste en una **simulación concurrente** desarrollada en **Java
 - Lenguaje: **Java**  
 - Paradigma: **Programación Orientada a Objetos (POO)**  
 - Librerías estándar de concurrencia en Java (`Thread`, `synchronized`, etc.)  
+- **RMI (Remote Method Invocation)** para la parte distribuida.  
 
 ---
 
@@ -32,3 +36,9 @@ Este proyecto consiste en una **simulación concurrente** desarrollada en **Java
 - Manejo de **concurrencia y paralelismo**.  
 - Coordinación y control de **recursos compartidos**.  
 - Diseño de **sistemas simulados** con múltiples entidades y restricciones.  
+- Experiencia en **programación distribuida con RMI**.
+
+---
+
+## 👩‍💻 Autora  
+**Lucía Cantero Anchuelo**
